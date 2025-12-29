@@ -1,2 +1,2 @@
 # JS-Rev
-JavaScript Re
+JavaScript Revision
