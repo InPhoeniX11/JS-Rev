@@ -4,7 +4,7 @@ const myArr = [0, 1, 2, 3, 4, 5]
 const myHeroes = ["shaktiman", "naagraj"]
 
 
-const mrArr2 =new Array(1, 2, 3, 4)
+const mrArr2 = new Array(1, 2, 3, 4)
 // console.log(myArr[0]);
 
 // Array Methods
@@ -37,6 +37,6 @@ console.log(myn1)
 console.log("B ", myArr)
 
 
-const myn2 = myArr.splice(1,3)
+const myn2 = myArr.splice(1, 3)
 console.log("C ", myArr)
 console.log(myn2)

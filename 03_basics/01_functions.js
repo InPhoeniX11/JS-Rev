@@ -44,15 +44,15 @@ function handleObject(anyobject) {
   console.log(`Username is ${anyobject.username} and price is ${anyobject.price}`)
 }
 
-handleObject(user)
-handleOject({
-  username: sam,
+// handleObject(user)
+handleObject({
+  username: "sam",
   price: 399
 });
 
 const myNewArray = [200, 300, 400, 100]
 
-function rteurnSecondValue(getArray) {
+function returnSecondValue(getArray) {
   return getArray[1]
 }
 
