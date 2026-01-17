@@ -2,7 +2,7 @@
 
 
 // (function one() {
-      // named IIFE
+// named IIFE
 //   console.log(`DB CONNECTED`);
 // })();                               // semi colon needed to end iife if we are executing another function through iife too
 
@@ -12,6 +12,6 @@
 // }) ()                          
 
 ((name) => {
-    // unnamed IIFE
+  // unnamed IIFE
   console.log(`DB CONNECTED TWO ${name}`);
 })('sudhanshu')
