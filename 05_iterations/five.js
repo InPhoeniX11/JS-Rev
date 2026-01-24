@@ -33,3 +33,7 @@ const coding = ["js", "cpp", "java", "python"]
       languageFile: "py"
     }
   ]
+
+  myCoding.forEach((item) => {
+    console.log(item.languageName);
+  })
